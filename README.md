@@ -1,2 +1,6 @@
 # bookStore
 bookStrore商城项目代码
+该项目采用了mysql+jdbc完成，使用了JavaWeb的相关技术
+完成了用户注册登录游览
+根据session完成了权限的设置，分为普通用户和会员用户
+后序版本有基于ssm框架的
